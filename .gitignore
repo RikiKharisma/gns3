@@ -1,0 +1,6 @@
+routeros/
+/server.conf
+/token
+*.service
+
+/gns3/
